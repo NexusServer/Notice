@@ -1,3 +1,5 @@
+Notice-popup
+
 popup을 이용해서 공지가 나가도록해봤습니다 (주기는 공지갯수가 많을수록 출력빈도는 높아집니다)
 
 이름 : MCJINWOO with angelless
